@@ -15,6 +15,12 @@
 # production
 /build
 
+# Arweave
+/keys
+out-id.txt
+out-manifest.csv
+out-manifest.json
+
 # misc
 .DS_Store
 *.pem
