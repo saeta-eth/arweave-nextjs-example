@@ -10,6 +10,25 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+
+To export your Next.js application to static HTML, run:
+
+```bash
+npm run build
+# or
+yarn build
+```
+
+And then
+
+```bash
+npm run export
+# or
+yarn export
+```
+
+Your Next.js HTML static files are inside of the `out` folder.
+
 ## Deploy on Arweave using Bundlr Network
 
 - Get 0.02 AR from the [Arweave Faucet](https://faucet.arweave.net/)
